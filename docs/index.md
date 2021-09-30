@@ -1,2 +1,3 @@
+- [2021-09-30 Dependency Hell](posts/2021-09-30-dependency-hell.html)
 - [2021-09-27 The Dog chases its own Tail](posts/2021-09-27-dog-chases-tail.html)
 - [2021-09-26 Restart](posts/2021-09-26-restart.html)
